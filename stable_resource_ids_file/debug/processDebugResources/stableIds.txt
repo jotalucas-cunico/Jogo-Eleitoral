@@ -1,0 +1,9 @@
+com.example.jogoeleitoral:xml/data_extraction_rules = 0x7f050001
+com.example.jogoeleitoral:xml/backup_rules = 0x7f050000
+com.example.jogoeleitoral:style/Theme.JogoEleitoral = 0x7f040000
+com.example.jogoeleitoral:drawable/ic_launcher_background = 0x7f010001
+com.example.jogoeleitoral:mipmap/ic_launcher_round = 0x7f020001
+com.example.jogoeleitoral:mipmap/ic_launcher = 0x7f020000
+com.example.jogoeleitoral:drawable/ic_launcher_foreground = 0x7f010002
+com.example.jogoeleitoral:string/app_name = 0x7f030000
+com.example.jogoeleitoral:drawable/$ic_launcher_foreground__0 = 0x7f010000

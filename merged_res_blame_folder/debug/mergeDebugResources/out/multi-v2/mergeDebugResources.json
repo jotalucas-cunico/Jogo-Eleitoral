@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.jogoeleitoral.app-debug-3:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\joaoc\\OneDrive\\Área de Trabalho\\projeto_extracao\\android-app\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "51",
+                        "endOffsets": "63"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\joaoc\\OneDrive\\Área de Trabalho\\projeto_extracao\\android-app\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "90",
+                        "endOffsets": "142"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "107",
+                        "endColumns": "89",
+                        "endOffsets": "192"
+                    }
+                }
+            ]
+        }
+    ]
+}
